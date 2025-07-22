@@ -1,3 +1,7 @@
+// 오수진아
+// 오수진아 안녕
+
+
 function moveAndFormatData() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sourceSheet = ss.getSheetByName('오수진');
